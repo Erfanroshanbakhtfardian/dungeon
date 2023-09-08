@@ -1,0 +1,61 @@
+ 4313  - 29-Jul-23 11:38:42 - root - WARNING -  User invalid coordinates ...
+ 4313  - 29-Jul-23 11:39:55 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:39:57 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:39:59 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:39:59 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:12 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:12 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:40:14 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:14 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:40:16 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:40:20 - root - INFO - User is in the rightmost column. cannot move right.
+ 4313  - 29-Jul-23 11:40:27 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:30 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:31 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:33 - root - INFO - User is in the bottom row. cannot move down.
+ 4313  - 29-Jul-23 11:40:36 - root - WARNING - User write invalid direction
+ 4313  - 29-Jul-23 11:40:38 - root - INFO - User is in the rightmost column. cannot move right.
+ 10402  - 29-Jul-23 13:43:48 - root - WARNING - User write invalid direction
+ 10571  - 29-Jul-23 13:48:21 - root - INFO - User is in the top row. cannot move up.
+ 10571  - 29-Jul-23 13:48:22 - root - INFO - User is in the top row. cannot move up.
+ 10571  - 29-Jul-23 13:48:25 - root - WARNING - User write invalid direction
+ 10571  - 29-Jul-23 13:48:25 - root - WARNING - User write invalid direction
+ 10571  - 29-Jul-23 13:48:26 - root - WARNING - User write invalid direction
+ 10070  - 01-Aug-23 19:28:17 - root - INFO - User is in the top row. cannot move up.
+ 10810  - 02-Aug-23 18:27:24 - root - INFO - User is in the top row. cannot move up.
+ 11110  - 02-Aug-23 18:34:47 - root - INFO - User is in the rightmost column. cannot move right.
+ 11110  - 02-Aug-23 18:34:47 - root - INFO - User is in the bottom row. cannot move down.
+ 11339  - 02-Aug-23 18:48:21 - root - INFO - User is in the top row. cannot move up.
+ 11339  - 02-Aug-23 18:48:21 - root - CRITICAL - Error 500! Please contact site support team.
+ 11339  - 02-Aug-23 18:48:21 - root - CRITICAL - Error 500! Please contact site support team.
+ 11339  - 02-Aug-23 18:48:21 - root - CRITICAL - Error 500! Please contact site support team.
+ 11339  - 02-Aug-23 18:48:21 - root - CRITICAL - Error 500! Please contact site support team.
+ 11339  - 02-Aug-23 18:49:03 - root - WARNING - User write invalid direction
+ 11339  - 02-Aug-23 18:49:06 - root - INFO - User is in the top row. cannot move up.
+ 11339  - 02-Aug-23 18:49:08 - root - INFO - User is in the top row. cannot move up.
+ 11523  - 02-Aug-23 18:50:08 - root - CRITICAL - Error 500! Please contact site support team.
+ 11523  - 02-Aug-23 18:50:08 - root - CRITICAL - Error 500! Please contact site support team.
+ 11523  - 02-Aug-23 18:50:08 - root - CRITICAL - Error 500! Please contact site support team.
+ 11523  - 02-Aug-23 18:50:08 - root - CRITICAL - Error 500! Please contact site support team.
+ 11523  - 02-Aug-23 18:50:14 - root - WARNING - User write invalid direction
+ 11523  - 02-Aug-23 18:50:25 - root - WARNING - User write invalid direction
+ 11632  - 02-Aug-23 18:52:52 - root - CRITICAL - Error 500! Please contact site support team.
+ 11632  - 02-Aug-23 18:52:52 - root - CRITICAL - Error 500! Please contact site support team.
+ 11632  - 02-Aug-23 18:52:52 - root - CRITICAL - Error 500! Please contact site support team.
+ 11632  - 02-Aug-23 18:52:52 - root - CRITICAL - Error 500! Please contact site support team.
+ 11632  - 02-Aug-23 18:53:03 - root - WARNING - User write invalid direction
+ 11632  - 02-Aug-23 18:53:04 - root - WARNING - User write invalid direction
+ 11632  - 02-Aug-23 18:53:04 - root - WARNING - User write invalid direction
+ 11632  - 02-Aug-23 18:53:22 - root - WARNING - User write invalid direction
+ 11632  - 02-Aug-23 18:53:22 - root - WARNING - User write invalid direction
+ 11809  - 02-Aug-23 18:54:44 - root - CRITICAL - Error 500! Please contact site support team.
+ 11809  - 02-Aug-23 18:54:44 - root - CRITICAL - Error 500! Please contact site support team.
+ 11809  - 02-Aug-23 18:54:44 - root - CRITICAL - Error 500! Please contact site support team.
+ 11809  - 02-Aug-23 18:54:44 - root - CRITICAL - Error 500! Please contact site support team.
+ 11839  - 02-Aug-23 18:54:51 - root - INFO - User is in the top row. cannot move up.
+ 11839  - 02-Aug-23 18:54:51 - root - CRITICAL - Error 500! Please contact site support team.
+ 11839  - 02-Aug-23 18:54:51 - root - CRITICAL - Error 500! Please contact site support team.
+ 11839  - 02-Aug-23 18:54:51 - root - CRITICAL - Error 500! Please contact site support team.
+ 11839  - 02-Aug-23 18:54:51 - root - CRITICAL - Error 500! Please contact site support team.
+ 12472  - 02-Aug-23 19:05:16 - root - INFO - User is in the top row. cannot move up.
+ 12600  - 02-Aug-23 19:06:25 - root - INFO - User is in the top row. cannot move up.
